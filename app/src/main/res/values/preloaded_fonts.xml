@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/alegreya_sc_black</item>
+        <item>@font/amarante</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/creepster</item>
+        <item>@font/hanalei_fill</item>
+        <item>@font/nosifer</item>
+        <item>@font/slackey</item>
+    </array>
+</resources>

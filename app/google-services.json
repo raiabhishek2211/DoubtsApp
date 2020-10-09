@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549961117564",
+    "firebase_url": "https://shopgram-67b37.firebaseio.com",
+    "project_id": "shopgram-67b37",
+    "storage_bucket": "shopgram-67b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549961117564:android:29784c84df369a3f13bef9",
+        "android_client_info": {
+          "package_name": "com.example.shopgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549961117564-1mb20b3k3apcj2lndk4st64a164qj0q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopgram",
+            "certificate_hash": "6cb4dfb8d7441271ac84248c3cfd030af4596326"
+          }
+        },
+        {
+          "client_id": "549961117564-83njjjt3ft75tgbki59nuvi7g4u0cal2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Htg1pzdXqLKGOAMVgEpVPQ9r1dZTdVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549961117564-83njjjt3ft75tgbki59nuvi7g4u0cal2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
